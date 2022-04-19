@@ -19,7 +19,7 @@ CHAPTER TWO “This Is a Man’s Size Job, but I Seem to Be Getting Away with It
 
 Codes have been around for as long as civilization, maybe longer. Virtually as soon as humans developed the ability to speak and write, somebody somewhere felt the desire to say something to somebody else that could not be understood by others. The point of a coded message is to engage in intimate, often urgent communication with another person and to exclude others from reading or listening in. It is a system designed to enable communication and to prevent it.
 
-Around 1916, Elizebeth Smith and William Friedman  worked for an eccentric bussiness man named George Fabyan. They led a team that performed code and cipher work for the government in Washington. 
+Around 1916, Elizebeth Smith and William Friedman  worked for an eccentric bussiness man named George Fabyan. They led a team that performed code and cipher work for the government in Washington. In 1921, both of them were hired by the Army to disguise military communications and they moved to Washington. 
 
 
 
