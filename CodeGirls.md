@@ -21,6 +21,12 @@ Codes have been around for as long as civilization, maybe longer. Virtually as s
 
 Around 1916, Elizebeth Smith and William Friedman  worked for an eccentric bussiness man named George Fabyan. They led a team that performed code and cipher work for the government in Washington. In 1921, both of them were hired by the Army to disguise military communications and they moved to Washington. 
 
+Around 1927 Elizebeth Friedman—slender became the government’s secret weapon to find criminals who used codes to get alcohol after Eighteeth Amendment Prohibition was passed. After Prohibition was repealed, she worked on other cases involving smuggling and organized crime, testifying against criminals dangerous enough that she sometimes needed government protection.
+
+In U.S Navy, Agnes Meyer, started as stenographer and eventually took the task of testing machines that were marked as fool-proof enciphering systems. She figured out how Japaneses disguised their fleet code using both a code and a cipher. She also discovered Japanese were encoding their messages using columnar transposition, which involves writing the code groups out horizontally but transmitting them vertically, aided by a grid with certain spaces blacked out, whose design often changes. Later also diagnosed an addictive cipher.
+
+
+
 
 
 
