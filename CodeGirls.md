@@ -25,6 +25,9 @@ Around 1927 Elizebeth Friedman—slender became the government’s secret weapon
 
 In U.S Navy, Agnes Meyer, started as stenographer and eventually took the task of testing machines that were marked as fool-proof enciphering systems. She figured out how Japaneses disguised their fleet code using both a code and a cipher. She also discovered Japanese were encoding their messages using columnar transposition, which involves writing the code groups out horizontally but transmitting them vertically, aided by a grid with certain spaces blacked out, whose design often changes. Later also diagnosed an addictive cipher.
 
+CHAPTER THREE The Most Difficult Problem
+
+
 
 
 
