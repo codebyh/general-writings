@@ -28,3 +28,21 @@ Chapter 9
 Nandini and Prem decide to have an discussion with Asha to share their story of why they decided to adopt. They told Asha she was adopted and give her some time to digest the news, but lately she has been either silent or avoiding them.
 
 Chapter 10
+Asha discloses her anxiety for dinner with her parents to her close friend Willow.
+
+Chapter 11
+Asha is distracted at the dinner and her parents postpone the discussion and end dinner early feeling Asha might be getting sick. 
+
+Chapter 12
+Asha grandparents come over for dinner at her place and she burst into tears as they still share their unconditional love and apologize for the pain she is feeling. 
+
+Chapter 13
+Asha wonders why her birth father had given her up for adoption.
+
+Chapter 14
+Mala and Ash catchup at the university. Mala shares her writer block and struggle coming back to school after her fathers death. Ash shares his worry about his girlfriend Laine's health. 
+
+Chapter 15
+Veena convinces her daughter to meet Sumesh.
+
+Chapter 16
