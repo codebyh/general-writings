@@ -106,6 +106,25 @@ Chapter 35
 Ash and Mala share their true feelings.
 
 Chapter 36-38
+Asha is pregnant and Rowan doesn't want to be any part of it.
 
+Chapter 39-50
+Ash coulndn't share the news with Laine as she fell very ill and is looking for a right time. Eventually Ash chooses Laine and baby. Mala approached Sumesh with marriage proposal realizing she is pregnant and they decide to get married. Mala and her mom meet Sumesh's parents, Mr and Mrs Mishra. Mishra's live an extravagant lifestyle and she was ready to accept all what it expected from her for the baby. Mala and Sumesh get married
 
+Chapter 51-56
+Nandini and Prem take Asha to hospital as she falls unconscious after consuming a recipe she found online to end pregnancy. Later the doctor confrims that Asha isn't pregnant. Nandini, Prem and Asha decide to not have any secrets and lies between them. Asha shares that she would like to know about her birth parents.
+
+Chapter 57-65
+Mala learns Sumesh is gay. Mala decides to be married and gives birth to a baby girl, Asha. 
+
+Chapter 66-70
+Asha meets Sumesh Mishra with help of adoption agency. Sumesh explains he and Mala got married, later raised her as own daughter. Then from letter Mala wrote to Ash Sumesh realized he wasn't father and put her for adoption so right people will find her who will love her more than anything. Asha also learns the letter Mala wrote Ash Groove was not delivered and her birth father might not even know about her.
+
+Chapter 71-
+Mala's mom dies of heart attack and Mala suffers for motherly blues and depression. While Asha and Sumesh went out, Mala has written 3 letters, one each to Asha, Sumesh and Ash. Mala steps infront of truck and dies. Ash on learning this shared his secret to Elaine, who ends their relationship. Ash since then has struggled to be part her daughter Ruby's life. 
+
+Asha finds Ash Groove at the university and drops the letter written by Mala to him. Ash learns about her daughter Asha. 
+
+Asha celebrates her nineteenth birthday with family, Willow, Ash and Ruby.
+Asha realizes by her birth mom letting her go, she found a family who would stand by her through anything. She has the freedom to choose her own life. She is glad to know all the truth. 
 
