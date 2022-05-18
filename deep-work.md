@@ -47,4 +47,8 @@ We must continually remember, certain corners of our economy where depth is not 
 Put another way: Deep work is not the only skill valuable in our economy, and it’s possible to do well without fostering this ability, but the niches where this is advisable are increasingly rare. Unless you have strong evidence that distraction is important for your specific profession, you’re best served, for the reasons argue earlier in this chapter, by giving serious consideration to depth.
 
 Chapter 2: Deep Work is Rare
-The recent business trends are open work spaces, instant messaging, social media presence. Many other ideas are being prioritized as more important than deep work in the business world, such as, serendipitous collaboration, rapid communication,and an active presence on social media. Many of these trends actively decrease one’s ability to go deep.
+Big trends (open work spaces, instant messaging, social media presence) in business today actively decrease people’s ability to
+perform deep work, even though the benefits promised by these trends (e.g., increased
+serendipity, faster responses to requests, and more exposure) are arguably dwarfed by
+the benefits that flow from a commitment to deep work (e.g., the ability to learn hard
+things fast and produce at an elite level).
