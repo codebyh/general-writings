@@ -29,3 +29,13 @@ The FOUR Ms
 3. Management: People running the business are doing with long term growth. 
 4. Margin of Safety: Know the value of business and can get it on a sale. In other words, you'd be able to buy this business cheap enough that you can sell it later without losing money - even if you were wrong to buy it in the first place. 
 
+Chapter 3: Buy a Business, Not a stock
+Does the business have 'Meaning' to you ? implies two questions
+1. Do you want to own the whole business?
+2. Do you understand it well to own it all?
+Think like business owner and not stock owner. 
+
+Select 5-10 you like the best.As a Rule #1 investors, we're going to own only a few businesses. Since that's the case, we must prepare ourselves to be certain we own the right few businesses - businesses that don't lose our money. 
+
+The 10-10 Rule: I won't own this business for ten minutes unless I'm willing to own it for ten years. 
+
