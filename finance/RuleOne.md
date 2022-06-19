@@ -14,5 +14,18 @@ The three myths of investing:
 3. The best way to minimize risk is to diversify and hold (for long term): If you know how to invest - meaning you understand Rule #1 and know how to find a wonderful company at an attractive price then you do not diversify your money into 50 stocks or an index mutual fund. You focus on few business you understand. You buy when the big guys, the fund managers who control the market are fearful, and you sell when they're greedy. More than 80% of the money in the market is invested by institutional money (fund managers). In other words, the fund managers are the market, when they move billions of dollars into a stock, the price of the stock goes up. When they take their money out, the price of that stock goes down. Their effect on the market is so huge that if they decide to sell suddenly, they can generate a massive crash. Understanding this fact is central to Rule #1: The fund managers control the price of almost all the stocks in the market, but they can't easily get out when they want to. Individual investor can be in and out of the market within seconds. Buy a dollar for 50 cents, and sell it later for a dollar. Repeat until very rich. 
 
 Chapter 2: Rule #1 and the Four Ms
+Rule #1 in a Nutshell
+Rule #1 literally means "Don't Lose Money". In investment it means to invest with certainty. Certainty comes from buying a wonderful business at an attractive price. 
 
+Rule #1 investing in four straightforward steps:
+1. Find a wonderful business
+2. Know what it's worth as a business
+3. Buy it at 50% (be a good shopper, the price of a thing is NOT always equal to its value)
+4. Repeat until very rich
+
+The FOUR Ms
+1. Meaning: Know what the business does and be confident it operates from a set of values you feel comfortable with. 
+2. Moat: Business should be able to defend itself against attacks by competitors. Be able to accurately predict the business's long term future. 
+3. Management: People running the business are doing with long term growth. 
+4. Margin of Safety: Know the value of business and can get it on a sale. In other words, you'd be able to buy this business cheap enough that you can sell it later without losing money - even if you were wrong to buy it in the first place. 
 
