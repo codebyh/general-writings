@@ -39,3 +39,46 @@ Select 5-10 you like the best.As a Rule #1 investors, we're going to own only a 
 
 The 10-10 Rule: I won't own this business for ten minutes unless I'm willing to own it for ten years. 
 
+Stock Sectors:
+Energy
+Materials
+Industrials
+Consumer Discretionary
+Consumer Staples
+Health Care
+Financials
+Information Technology
+Communication Services
+Utilities
+Real Estate
+
+Chapter 4: Identify a Moat
+Does the business have a wide Moat?
+Understand if the future is predictable with high certainty. As a rule #1 investor, you don't buy a company with uncertain future.  
+
+Idea of the Moat is really simple. If an industry looks as if it might be very easy to get into, there probably isn't a Moat. Example: Commodity (fruits, vegetables) business don't have Moats. We don't want to own business without Moats because it's really hard to make money. Wide moat means the business is very hard to compete against and also they keep up with inflation, example: Coke-cola and pepsi, Gillette, Disney, Wrigley, starbucks, Apple. 
+
+Moat's aren't always about loving the product. Example: people hate windows but still use as it has huge library, people might wal-mart but still use it as the products are really cheap. 
+
+Moats can be created by trade secrets that keeps other business from copying them. Example: cooke-cola, Pfizer, Intel, PG&E (protected by government law, to provide utility in its region), toll bridges, advertising and Media companies, 
+
+Overall, Moat gives some kind of Monopolistic position and the business is well known for being number one or two in its industry. 
+
+Five moats
+| TYPE        | DEFINITION           | EXAMPLE  |
+| ------------- |:-------------:| -----:|
+| Brand     | a product you're willing to pay more for because you trust it | Coke, Gillette, Disney, McDonald's, Pepsi, Nike, Budweiser, Harley-Davidson |
+| Secret     | a business that has a patent or trade secret that makes direct competition illegal or very difficult | Pfizer, 3M, Intel |
+| Toll | a business with exclusive control of a market - giving it the ability to collect a "toll" from anyone needing that service or product | Media companies, utilities, ad agencies|
+| Switching | a business that's so much a part of your life that switching isn't worth the trouble | ADP, Paychex, H&R Block, Microsoft |
+| Price | a business that can price products so low no one can compete | Wal-mart, Costco, Bed Bath & Beyond, Home Depot, Target |
+
+The Big-FIVE
+If a business has at least one of the Five Moats, it'll show up in the Big Five numbers:
+1. Return on Investment Capital (ROIC)
+2. Sales growth rate
+3. Earnings per share (EPS) growth rate
+4. Equity, or Book Value per Share (BVPS), growth rate
+5. Free Cash flow (FCF or Cash) growth rate
+
+All the Big Five should be equal to or greater than 10% per for last 10 years. 
