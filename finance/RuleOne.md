@@ -82,3 +82,29 @@ If a business has at least one of the Five Moats, it'll show up in the Big Five 
 5. Free Cash flow (FCF or Cash) growth rate
 
 All the Big Five should be equal to or greater than 10% per for last 10 years. 
+
+Chapter 5: The Big Five Numbers
+*Return on Investment Capital (ROIC)* is a rate of return a business makes on the cash it invests in itself every year. It's a measure of how effectively a company uses the money (borrowed or owned) invested in its operations. As such, it's also an  indicator of how effectively a company's Management team is at using the money invested in its operations. 
+Example: Lemonade stand takes $200 and earns $300. Profit = $100, ROIC = 100/200 = 50% return. 
+
+We want to see a long history of great ROIC - at least 10% per year for the last 10 year's average. And we don't want to see ROIC going down, we want to see it *going up or at least staying the same*.  while it's acceptable to just focus on the 10 year average, it's best to look at three numbers for ROIC:
+(1) the 10-year average
+(2) the past 5 years average
+(3) the last year's average
+Having all three ROIC numbers gives a better sense of how a company is doing. 
+
+The FOUR Growth Rates
+We also need to know that the business is growing for the benefit of us, the owners. These numbers tell us how much the business is growing each year over the previous year and, if they are consistent, give us a huge clue to what rate of growth we should expect in the future. This is critical to figuring out what this business is worth today.
+
+For that information, we have to look at four growth rates: 
+(1) sales growth rate
+Sales are the total dollars the business took in from selling whatever widgets and digits it sells. Also referred to as "top line" (number) as it's located on the top line in financial reports about the business (specifically, on the income statement).
+Example: Lemonade stand make $1000 of sales in Year-2. Sales grew from $300 to $1000, rate = 1000/300 = 3.33 => this means sales were same (first 1) + we get another 2.33 or 233% growth rate. If year-5 sales are $3000, sales grew from $1000 to $3000, rate =   3000/1000 = 3.0 => 1 + 2 or 20% growth rate [??? 25%]
+
+(2) earnings per share (EPS) growth rate
+
+
+(3) equity growth rate
+(4) free cash growth rate
+
+Get Data frm: Yahoo, MSN,
