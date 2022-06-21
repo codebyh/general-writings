@@ -99,10 +99,17 @@ We also need to know that the business is growing for the benefit of us, the own
 For that information, we have to look at four growth rates: 
 (1) sales growth rate
 Sales are the total dollars the business took in from selling whatever widgets and digits it sells. Also referred to as "top line" (number) as it's located on the top line in financial reports about the business (specifically, on the income statement).
-Example: Lemonade stand make $1000 of sales in Year-2. Sales grew from $300 to $1000, rate = 1000/300 = 3.33 => this means sales were same (first 1) + we get another 2.33 or 233% growth rate. If year-5 sales are $3000, sales grew from $1000 to $3000, rate =   3000/1000 = 3.0 => 1 + 2 or 20% growth rate [??? 25%]
+Example: Lemonade stand make $1000 of sales in Year-2. Sales grew from $300 to $1000, rate = 1000/300 = 3.33 => this means sales were same (first 1) + we get another 2.33 or 233% growth rate. If year-5 sales are $3000, sales grew from $1000 to $3000, rate = 3000/1000 = 3.0 => 1 + 2 or 20% growth rate [??? 25%]
 
 (2) earnings per share (EPS) growth rate
+EPS tells us how much the business is profiting per share of ownership. 
+Example: To expand lemonade stand we will need more supplies to keep up with demand. we need outside money and to get the money we need to sell some ownership. We need to make lemonade stand business into a corporation so we can create lots of little pieces of ownership in business. Those pieces are called shared of stock. Once this is done, we will have stock to sell people. We can decide to issue 2,000 shares. It can also be 10,000 or a million. That doesn't change the size of pie - but create more pieces.
 
+Next we need to figure out what the business is worth so we know what to charge for a piece of it. For 5 years business has been growing fast - at about 25% per year. Last year earnings were $2,000. If this was a public traded company with high track record investors would pay 2x growth rate i.e 50 times * (last year earnings) = $100,000 to own a piece of business. But since lemonade stand is not big or public, it isn't worth much to private investor as it involves to many risks making the business worth quarter of that like $25,000. Now if we want to sell 50% of the business it will be $12,500. If issued stock was 2,000 we sell half of it. cost per share = $12,500/1000 = $12.50. The other 1,000 shares are owned by us, representing half the ownership of the business. 
+
+Now we can use $12,500 (invest capital) + $2,000 (cash surplus from earnings) we put use it to grow business to a point where it generates $6,000 in earnings per year. This is divided among total shares of 2,000 i.e $6,000/2,000 shares = $3 EPS. 
+
+EPS is often called the "the bottom line" because it's usually the last line on the financial statement.  EPS growth rate is the amount of growth from one year to another expressed in %.
 
 (3) equity growth rate
 (4) free cash growth rate
