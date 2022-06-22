@@ -109,9 +109,129 @@ Next we need to figure out what the business is worth so we know what to charge 
 
 Now we can use $12,500 (invest capital) + $2,000 (cash surplus from earnings) we put use it to grow business to a point where it generates $6,000 in earnings per year. This is divided among total shares of 2,000 i.e $6,000/2,000 shares = $3 EPS. 
 
-EPS is often called the "the bottom line" because it's usually the last line on the financial statement.  EPS growth rate is the amount of growth from one year to another expressed in %.
+EPS is often called the "the bottom line" because it's usually the last line on the financial statement.  EPS growth rate is the amount of growth from one year to another expressed in %. 
+Example: 10 years ago lemonade EPS was 10 cents  ($200/2000 shares) and today is $3 per share growth rate = (present value - past value)/ past value = (3 - 0.10)/0.10 = 29% [??? 41%] per year
+
+In this amount we want to know if owners get to keep that money or whether it's getting spend on a bunch of equipment to create next year's spectacular growth. For this we need to look at equity growth rate. 
 
 (3) equity growth rate
-(4) free cash growth rate
+Equity is what is left over once we (us and other other business owners) have sold off everything, paid off any debt, and took the money that was left. 
+Example: when we decided to sell lemonade stand but nobody wanted to buy it from us. we sell the supplies $8,000 (sugar, lemons, machines etc) + couple of trucks (worth $10,000) + cash ($10,000) = $28,000 of equity (also called book value or liquidation value). This is split on per share basic = $28,000/2,000 shares = $14 is called Book value per share (BVPS).
 
+Equity numbers are vastly different for factory type business (like McDonalds) vs intellectual or knowledge business (like Google). *But the rate of equity growth could be identical.* It tells us the business can accumulate surplus (can be used to increase its market or develop new products. Not just to maintain the business though.), and that in itself makes it exceptional. Hence, equity alone isn't nearly as revealing as equity growth rate. 
+
+Equity, or book value per share, is also an excellent indicator of the long-term growth of what Mr.Buffets calls *intrinsic value* or what is referred in the book as "Sticker Price", the rational value of business. We look at equity growth rate to help determine the long-term growth rate, and thus the sticker price, of a business. 
+
+Example: Back when we sold stock in lemonade business, equity = $12,500 (1,000 shares sold) + $2,000 (earnings) = $14,500.  BVPS = $14,500/2,000 = $7.25. If we liquidate the business today after 5 years = $28,000/2000 = $14 BVPS. equity Growth rate for last 5 years = 14% per year [???]
+
+Other terms: Diluted Normalized EPS, Diluted EPS
+(4) free cash growth rate
+Cash tells us if company's cash is aligned with its profits. Cash growth, in particular, tells us whether its cash is growing with its profits or if the profits are only on paper. We like *real* cash growth.
+
+Example: lemonade business has some machinery and trucks. so any profits need be reinvested in expensive hardware which becomes worthless. If business makes profit, almost all of it becomes cash in the bank. That cash can be used for business purpose, or it can be given to the owners as a so-called dividend.
+5 years ago lemonade had $1,000 in cash and today it has $10,000. cash growth rate = 58% [???]
+
+A dividend is a pay-out of extra cash the business can't use effectively to grow. The author prefers business that can invest the cash for him instead of giving back to him and making him reinvest himself.
+
+Analyzing the FOUR Growth Rates
+
+Where to get the big five numbers
+Company Financial statements
+    - income statement (also called profit and loss)
+        Includes a company's revenue (i.e sales), expenses, and profits.
+        key numbers: sales, EPS
+    - balance sheet
+        Includes a summary of assets (what the business owns), liabilities (what business owes), and net worth or equity (what's left over with assets - liabilities) 
+        Key numbers: Equity, debt numbers
+    - cash flow
+        Includes changes in cash from operating, investing, and financing activities. 
+        Has the numbers that reflect what cash came in, what cash went out, and what cash if left
+        Key numbers: free cash, dividends
+
+Fidelity common path: "Research" -> "stocks" -> "<QUOTE>" -> 
+MSN Money* common path: "Research" -> "Financial Results" -> "Statements" 
+
+
+ROIC/ Return on Investment Capital
+MSN Money: "Financial Results" -> "Key Ratios" -> "Investment Returns" -> Find"Return on Capital"
+Yahoo Finance: Carries only *3 years* data
+Fidelity: "statistic" -> 
+
+Sales
+MSN Money: "Financial Results" -> "Key Ratios" -> "10-Year Summary"
+
+Earning Per share(EPS)
+MSN Money: "Financial Results" -> "Key Ratios" -> "10-Year Summary"
+
+Equity
+MSN Money: "Financial Results" -> "Key Ratios" -> "10-Year Summary" -> Find "Book Value per Share"
+
+Cash
+MSN Money: "Cash Flow" statement -> Refer to the very bottom line -> "Free Cash Flow"
+
+****
 Get Data frm: Yahoo, MSN,
+other professional sites:
+www.investors.com
+www.zacks.com
+wwww.morningstar.com
+www.success.investtool.com
+*****
+
+What about Debt?
+Debt is more of an after thought than one of the Big Five. 
+A business that is carrying alot of debt *relative* to its income has an unpredictable financial future. 
+Zero debt is best, but if you can pay off the debt in one year of free cash flow, then debt load is good.We'll set maximum payoff time at 3-years. After that, we are not interested. 
+
+Others ways to evaluate debt is to see it as percentage of the equity and the liabilities or just the equity i.e debt/equity ratio. But business can manipulated these ratio for lots of good and bad reasons.
+
+All you need to find out is company's total long-term debt and its current free cash flow. Look for numbers (it will be in millions) not the percentages. Don't worry much about short term debt, long-term debt is what you want to watch out for and you'll find it on the balance sheet as simply "Long term debt".
+
+Example: Divide business long term debt by its current cash flow. Debt = $923 and cash flow = $304 so 923/304 = 3 (barely ok)
+
+Dividends
+Every year business has left over cash, CEO gets to decide whether to give it to us or spend it on R&D, expand employees, build stores, marketing etc. If CEO doesn't give it back to us we want him/her to get a high return on investment for our money. As long as *ROIC* is staying up there, a good job is being done. 
+
+When a business can't use the excess cash to grow any faster (eg: Microsoft), it gets paid out to owners as dividends. Some companies use all the earnings to grow and so they don't pay dividend (eg: starbucks). *As Rule #1 investors, we don't exclude a business because it pays (or doesn't pay) a dividend. Paying a dividend is not a indication of slow growth or fast growth.* It's just a choice being made by management about how best to manage the owner's cash. 
+
+A bad dividend is one that's paid out with the money the CEO could have used to grow the business. This can be done to keep consistent dividend payouts, but not good for business in long term. 
+
+Dividends and Equity Growth:
+Dividends are deducted from equity. Most companies pay dividends more or less a constant % of surplis, hence we need to add the dividends back to the equity before calculating the equity growth rate. 
+When huge dividends are made the equity will drop heavily, check out the cash flow to see if there any big payouts. 
+
+Chapter 6: Calculate the Big Five
+Rule of 72 -> using compound interest an approximate time to double the money, divide 72/(interest rate)
+Example: $10,000 will be doubled (aprrox) in 72/8% interest rate in 9 years
+
+By hand calculation for all 4 Growth rates:
+A business values goes from 36 to 130 in 7 years, what is the growth rate?
+step 1: Count number to times in got double 40 (approx of 36) -> 80 [once] -> 160 [twice]. 
+step 2: Get years from #1 factor. 130 quite not close to 160, so it took 7 years/ factor 2 =  3.5 - 4 year to become double
+step 2: 72/4 = 18% growth rate
+
+A business values goes from 102 to 763 in 9 years, what is the growth rate?
+step 1: Count number to times in got double 100 (approx of 102) -> 200 [once] -> 400 [twice] -> 800 [thrice]. 
+step 2: Get years from #1 factor. so it took 9 years/factor 3 = 3 years to become double
+step 2: 72/3 = 24% growth rate
+
+Priority of Growth Rates:
+Not all four growth rates bear the same weight, or share the same level of importance. Although they all should be above our 10% minimum, here's the order of importance (starting with most important):
+(1) Equity Growth
+(2) EPS Growth
+(3) Sales (or gross profit) growth
+(4) Cash flow growth
+
+Equity and EPS growth rate say a lot about the future of the company, and how certain we can be about the future of the company, and how certain we can be in predicting that future, which is corner stone to Rule #1. 
+
+Calculating ROIC:
+The most important number of all. Rule of 72 won't work for ROIC but it can be easily found on an financial site.
+ROIC = NOPAT (net operating profit after tax)/(equity + debt)
+NOPAT = net income from operations + interest + depreciation expenses
+
+Moat: Overall look for consistency and minimum of above 10% in the priority of Big 5 numbers (ROIC + 4 growth rates).
+
+How reliable is past growth in predicting the future?
+Just because the Big-5 were good in the past doesn't always mean they'll be good in the future. Almost every business ends it long streak of great Big-5 at some point (runs of people to sell their good & services, competition takes over etc). Maybe the entire industry becomes absolute. Past growth rates alone are not good enough to predict the future. Which is why Rule #1 investors don't rely on past growth rates to make a prediction. Remember the first M: *meaning* to you. Do not invest your retirement money in anything you don't understand and has no meaning to on some level. 
+
+Chapter 7 : Bet on the Jockey
