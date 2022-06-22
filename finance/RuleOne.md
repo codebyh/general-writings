@@ -234,4 +234,20 @@ Moat: Overall look for consistency and minimum of above 10% in the priority of B
 How reliable is past growth in predicting the future?
 Just because the Big-5 were good in the past doesn't always mean they'll be good in the future. Almost every business ends it long streak of great Big-5 at some point (runs of people to sell their good & services, competition takes over etc). Maybe the entire industry becomes absolute. Past growth rates alone are not good enough to predict the future. Which is why Rule #1 investors don't rely on past growth rates to make a prediction. Remember the first M: *meaning* to you. Do not invest your retirement money in anything you don't understand and has no meaning to on some level. 
 
+
+Summary: we are looking at stocks as business. we're looking for a wonderful business and we're insisting we buy it at an attractive price. Having a wide Moat is critical part of a wonderful business, because a wide-Moat business can recover from from lots of disasters.
+
 Chapter 7 : Bet on the Jockey
+Third M : *Management*
+We are looking for a leader. Someone who is going to take our company to the moon.Someone who lives and breathes this company. Someone who has a Big Audacious Goal that he wants to drive the business to achieve. 
+
+How Venture Capitalist Gamble Smartly
+Venture capitalists (VC) invest in companies before the firms offer their stock to the general public. It hard work and risky. VC is all about investing at such an early stage that you can't really be certain it's all going to work. There are no Big-5 numbers to look at, sometimes if it is new there is no industry. Hence VCs bet on management team (bet on jockey) at least as much as they did on the business plan. One of the main reason you want to own a business is because you like and trust the people who run it. Sometimes VCs hold up funding until a great CEO can be found to join the team. Top of their essentials a business must have - a CEO they trust and with whom they want to work. 
+
+Who are we looking for:
+CEO's who move their companies to greatness are called "Level-5" leaders. Most important qualities are:
+1. Owner - Oriented 
+2. Driven
+
+An Owner-Oriented CEO
+An owner oriented CEO is one who has his personal interest directly aligned with the shareholders of the business - the owners. 
