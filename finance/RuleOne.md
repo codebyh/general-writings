@@ -251,3 +251,20 @@ CEO's who move their companies to greatness are called "Level-5" leaders. Most i
 
 An Owner-Oriented CEO
 An owner oriented CEO is one who has his personal interest directly aligned with the shareholders of the business - the owners. 
+ - Tells us owners what we need to know, instead of hiding any problems. Example of good CEO can be seen in annual share holder letters
+ - Driven: have the drive to change the world in some way. It becomes the company's vision and it can drive business for years. Some are worth more than a billion dollars and they go to work every day because they driven by Big Audacious Goal (BAG) and make us rich in the process.
+- Few other tricks to checkout for (1) checking out insider trading activity (2) consider CEO's compensation
+- Insider Trading: if the CEO is level 5 they should be treating the business as if it were the only asset her family will own over the next 100 years. Then why would they sell pieces of it unless they had to?
+Insider trading is when a CEO or anyone in the company who has access to non public information about the company buys or sells stock in their own company. Insider trading is one of the tip-offs that something good or bad is about to happen, the reason being that a CEO often knows months in advance what's going to happen, and if they are not for long run, there are liable to cut losses and sell their stock. Look for websites that show shares being sold and total shared owned. Use common on the % of stock being unloaded.
+- CEO Compensation: Some exceptional CEO take less salary and do what they do becuase they love it (Buffet, Job in beginning years of return to Apple, Gates etc) There are other kind of CEOs, their loyalty to the cause goes as deep as the depth of paycheck. If the business is in real trouble, their chief concern will be escaping with a pile of gold. Troubled corporate debacles have over compensation deals for companies top executives in common. 
+On-hands: In business annual report, look for heading "Notes to Consolidated Financial Statements" and find section "Stock Options". Check to see if the business structures a logical and appropriate "strike price", it should reflect success for owners. Secondly check to see if the business enforces a ban on CEO quickly disposing of any shares purchased through options, there by ensuring CEO sees the world as a lon-term owner. 
+
+Overall: Read annual reports. Ask yourself: Is the CEO being compensated as an owner or as a mercenary? If he's compensated with a reasonable salary and perks and has a stock or option position in the business that lets him make a reasonable amount of money when *we* do, then fine. otherwise don't own the business. 
+
+A great way to spot a shady management team and/or CEO is to find a gaping disconnect between the hard-core numbers- specifically Big-5 - and what the CEO is peddling about the state and fate of the company. 
+
+If you are not sure, just sit in cash until I can find one business you are sure about. If on other hand, you think the business is truly wonderful then go ahead to final M: Margin of Safety.
+
+
+
+
