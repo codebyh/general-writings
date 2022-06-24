@@ -265,6 +265,15 @@ A great way to spot a shady management team and/or CEO is to find a gaping disco
 
 If you are not sure, just sit in cash until I can find one business you are sure about. If on other hand, you think the business is truly wonderful then go ahead to final M: Margin of Safety.
 
+Chapter 8: Demand a Margin of Safety
+Professor Malkiel's book on Efficient Market Theory, A Random Walk Down Wall Stree is still sold today. EMT (Efficient Market Theory) states that stocks are priced according to value. This is not correct. 
+
+Benjamin Graham said about 50 years ago: "In short run the stock marker is a voting machine but in the long run it's weighting machine". 
+The basic idea of investing are to look at stocks as business, use market fluctuations to your advantage and seek a Margin of Safety. That's what Ben Graham taught us. A hundred years from now they will still be the cornerstone of investing. 
+
+The sticker Price
+The practical application of Rule#1 investing is this: Buy $1 of value for 50 cents. This is possible because sometimes the value of a business we want to buy is not equal to the price it's selling for. It is critical to our job of buying business that we understand this. *Price* is what the market is getting for the business today. *Value* is what it is worth. Ideal to buy when price < sticker price.
+Fund managers buy frequently and above sticker price for annual performance reasons. And trusting EMT. 
 
 
 
