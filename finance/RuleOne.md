@@ -273,7 +273,23 @@ The basic idea of investing are to look at stocks as business, use market fluctu
 
 The sticker Price
 The practical application of Rule#1 investing is this: Buy $1 of value for 50 cents. This is possible because sometimes the value of a business we want to buy is not equal to the price it's selling for. It is critical to our job of buying business that we understand this. *Price* is what the market is getting for the business today. *Value* is what it is worth. Ideal to buy when price < sticker price.
-Fund managers buy frequently and above sticker price for annual performance reasons. And trusting EMT. 
+Fund managers buy frequently and above sticker price for annual performance reasons. And trusting EMT.
+
+Meet Mr. Market:
+The idea that the market is our partner came from Ben Graham. Mr. Market is an incredibly agreeable partner. At any time he's willing to make a deal happen. If we want to buy a business, he'll sell it to us. If we want to sell a business, he'll buy it from us. The catch: Mr. Market gets to name the price. Some days he overly optimistic, some days is depressed. Mr Market mood sets the prices. We prefer to *buy* from Mr.Market when he's severely depressed and we want to *sell* to Mr. Market when he's irrationally exuberant. 
+
+A *bug* part of the secret of getting rich buying business is knowing what they're worth. And, equally important, what they're not worth. By know that (1) price is not value and (2) Mr. Market is going to price stocks crazy from time to time, we know that if we can properly value every business we are interested in buying, all we have to do is be patient and wait for Mr. Market to bring it to us at the right price - the price price where making money is certain.
+
+Some investors think that great companies don't go on sale, and they're usually right. But usually right isn't same as *always* right. 
+
+Margin Of Safety (MOS)
+The secret to making a fantastic rate of return on our business buying is to be sure we're getting a dollar of value for only 50 cents. First we determine the value - the sticker price. Then we determine MOS, which is half the sticker price. If we've done a good job of determining the sticker price, we are going to make a lot of money. If we've done a bad job, we have a MOS and we're going to get outta there without violation Rule #1. 
+
+Applying MOS to other Investments:
+If you are a Rule #1 real estate investor, you aren't buying real estate in adherence to the "greater fool" theory of real estate speculation. You're buying real estate as a business, and you're doing it with a big MOS.
+
+
+
 
 
 
