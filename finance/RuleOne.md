@@ -288,6 +288,75 @@ The secret to making a fantastic rate of return on our business buying is to be 
 Applying MOS to other Investments:
 If you are a Rule #1 real estate investor, you aren't buying real estate in adherence to the "greater fool" theory of real estate speculation. You're buying real estate as a business, and you're doing it with a big MOS.
 
+Calculating the Sticker Price
+The Sticker Price has a lot of other names in the financial community, including "intrinsic value", "fair value", and simply "retail price".
+Sticker Price refers to the price of the business that's fair - that's neither overpriced nor underpriced. It's what the market *should* be selling it for. The essence of Rule #1 investing is buying stocks as if they were businesses, and businesses are not pieces of paper . Businesses have employees, buildings, and machinery that all come together to sell a product and make money. The sticker price of a business is more than the value of its parts. The major part of business's value is the money it's going to make *in the future* for its owner. No one knows exactly what that amount will be, therefore, no one knows exactly what the Sticker Price should be.
+
+Finding the Sticker Price
+To find the sticker Price, we need four numbers handy:
+1. Current EPS
+2. Estimated (future) EPS growth rate
+3. Estimated future PE
+4. Minimum acceptable rate of return from investment
+Why these numbers? The sticker price is calculated by knowing the amount of money a business is going to make in the future. The amount of money a business makes is called *earnings(profits)*, and the most accurate way earnings are reported to owners is called earning per share or EPS. In particular we want to know what the EPS is going to be in *ten years*. And to figure out the *future* EPS, we need two numbers: the current EPS and the estimated (future) EPS growth rate. By growing the current EPS at the estimated EPS growth rate for ten years, we can obtain the future EPS ten years from now. 
+
+Once we know the future EPS, we can figure out what its future market price is going to be in ten years, too. That part's easy. Mr. Market prices business by some multiples of their EPS. This multiple is called *P/E (price/earning) ratio*, or just PE. We find out the best future PE to use and then multiply that number times the future EPS to arrive at the future market price of the business in ten years. 
+
+1. Current EPS
+To get current EPS go to financial websites and look for *"TTM EPS"*, short for Trailing Twelve Months EPS, refers to data measured during the *last 4 fiscal quarters*. 
+Fidelity: stock quote -> "Dividend & Earnings" -> "EPS(TTM)"
+WSJ: stock quote -> "EPS(TTM)"
+
+2. Estimated EPS Growth Rate
+To predict the future EPS growth rate on a business, we look at *historical* growth rates to base our decisions. 
+Of the Big-5 numbers, the one that best points to future EPS growth rate is its past *equity growth rate* (not historical EPS growth rate). It's because a history of growing equity shows that the business has been able to create more and more surplus cash each year. Such growth of surplus cash is what makes a business valuable to the owner because the real value of business is just all the money you can collect form it over the years. The value of the business obviously increases with the increase in the value of equity, a business that's growing its cash surplus at 20% a year has more cash for the owner each year. Warren Buffet in his 2004 chairman's letter said that the best proxy for the growth of intrinsic value (sticker price) is the growth of equity. 
+
+While we're going to give a priority to equity, we still review all our growth rate to find the best number for estimated EPS growth rate. What we're looking for is consistency and a reasonable growth rate number that the business can sustain. If the number decided on isn't fairly obvious, if you feel yourself making a big guess based on a lot of scrambled numbers, then this isn;t a business to own. Especially as a beginner, you need to be patient and wait for a really obvious one to come along.
+
+Since estimated growth rate is such an important number, we'd like a second opinion. Go to financial research website and checkout professional analyst make their best guess on the growth rate of a business for the next 5 years.
+Yahoo: stock quote -> "Analysis" -> "Growth Estimates" -> "Next 5 Years (per annum)" 
+
+Compare what we've decided is the business's historical growth rate with professional estimate of future growth. If those 2 numbers are not similar, then we need to decide which of the two numbers we trust the most for purpose of calculating the future price of the business. At first we'll use the lower, more conservative number. Later, when you have more experience, you can use the higher number if you feel it's justified. 
+
+Example:
+Current EPS: $13
+Future Growth Rate: 11
+
+3. Estimated Future PE
+Now we need to know what multiple of EPS we should assign a given company ten years from now to determine its value ten years from now. We need to provide a multiple called *PR or P/E ratio* to change the earnings-per-share number into price-per-share number. 
+Example: If a business is earning $1 per share ten years from now, its correct price per share may be anywhere from $5 - $50 depending on what future PE we multiply future EPS with. 
+
+Business almost never sell for just one times their current EPS, or PE of 1. That's way too cheap because the seller is getting only what he would have gotten in one year anyway. You want to sell it for 5PE or 10 PE.
+
+Mr. Market operates just like this: If Mr. Market thinks a business is going to grow really fast, he gives it high PE, like 50.If he thinks it isn't going to grow much, he gives it really low PE, like 5. The PE is all about what Mr. MArket thinks about the future. Lots of time Mr. Market isn't thinking - he's reacting emotionally. When he does that, he can put the PE way too high or way too low. We are, of course, hoping he'll put the PR way too low when we're buying and then way too high so we can sell for lots more thant we expected. But when it comes to deciding what to pay for a business, we're going to use a PE that makes sense - not too high, not too low. We want the PE to be "just right".
+
+A quick rule of thumb for figuring the PE is to double the Rule#1 growth rate. This will the *default PE*.
+We have something else to go - we have the historical PE. Every good business has a PE. We can look up the historical PE and see how that compares with the default PE. 
+If the historical and default PEs are not same, we'll use the lower of the two when making calculations. 
+
+Fidelity: stock quote -> "Dividend & Earnings" -> "P/E (5-Year Avg)"
+
+Example:
+Future Growth Rate: 11
+Estimated Future PE: Min ( 2 * 11, 34.45) = 22
+
+4. Minimum Acceptable Rate of Return
+*The Rule#1 minimum rate of return is 15% per year*. The Sticker price is the maximum we can pay and still get that 15% return on our money over the next ten years. In other words, the value of the business to us is the price that, if our projections are correct - and everything works out perfectly - will give us a compounded 15% annual return for next 10 years. Of course, things almost never work perfectly and we're going to insist on a big Margin of Safety below Sticker Price.
+
+Summary of Sticker Price Process steps:
+step 1. Calculate future EPS: Grow the current EPS at the estimated EPS growth rate for ten years to obtain the future EPS. *The EPS growth rate will double the current EPS in some number of years.*
+Use rule of 72: We need to know how many years it takes to double the current EPS if it grows at the EPS growth rate. 
+Example: current EPS $13 and future growth rate is: 11%. By rule of 72, it is 72/(est growth rate) = 72/11 = 7 (approx). If business grows at 11% per year, every 7 years our $13 will be double. 
+Now what will happen in 10 years? since it is double every 7 years, it will be double about 2.5x times. So future EPS in 10 years = $32 (approx)
+step 2. Calculate Future Market Price: Multiply future EPS by future PE to obtain future market price i.e (future EPS) * (future PE)
+Example: from #1 above future EPS = $32 and future PE = Min (default PE, historical PE) =  Min (2 * 11, 34.45) = 22 EP.
+Future Market Price = (future EPS) * (future PE) = 19 * 22 = 704
+step 3. Calculate Sticker Price: Shrink the future market price by the minimum acceptable rate of return per year to obtain the Sticker Price. Our minimum acceptable rate of return is 15%. By rule of 72, 15% will double our money every 5 years. So we can expect, for 15% and in 10 years the money will double *twice*. That means we get only 2 doubles from Sticker price to the future market price. 
+Example: $2 -> [double one - 5 years] 4 -> [double twice - 10 years] -> 8
+The pattern is if we know future market price, we can divide by four to get the sticker price
+Example: if future market price = 704, then sticker price = 704/4 = $176. If you want at least a 15% compound rate of return for next ten years, you need to buy this for $176 or less per share today. 
+step 4. Calculate Margin of Safety: We never pay the sticker price. we always want to buy a dollar of value for 50 cents. We always, always, always want a BIG Margin of safety - a BIG MOS. To get a big MOS, we want to buy this business for 50% off the sticker. 
+Example: if sticker price is $176, we want to buy it at MOS Price = $88. This is the "on-sale" price we want to pay for this business, the MOS price. This gives us one heck of a nice cushion to make our minimum 15% on a business we expect to sell in ten years for $704.
 
 
 
