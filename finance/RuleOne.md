@@ -358,7 +358,16 @@ Example: if future market price = 704, then sticker price = 704/4 = $176. If you
 step 4. Calculate Margin of Safety: We never pay the sticker price. we always want to buy a dollar of value for 50 cents. We always, always, always want a BIG Margin of safety - a BIG MOS. To get a big MOS, we want to buy this business for 50% off the sticker. 
 Example: if sticker price is $176, we want to buy it at MOS Price = $88. This is the "on-sale" price we want to pay for this business, the MOS price. This gives us one heck of a nice cushion to make our minimum 15% on a business we expect to sell in ten years for $704.
 
+Chapter 9: Know the Right Time to Sell
 
+Right time to sell a business - *in theory* is never. So the perfect business is one we never have to sell. It continues to make us rich.
+
+It doesn't often happen that you can hold on to wonderful company forever. Not all companies stay wonderful. 
+
+But still, the goal of every Rule #1 investment is to never sell. Don’t lose sight of this concept, since it’s part of the mindset you must adopt for purposes of finding and buying wonderful companies.
+
+The Incredible advantage of never selling:
+If, at any time along this 20-year investment journey, a business becomes less than wonderful or massively overpriced, we’ll sell it and stay out of it until the situation is rectified. Our money, in that case, will be invested in some other wonderful business that we can find at an attractive price. So, although I write about staying for 20 years in one business, in reality few businesses make it 20 years without becoming un-wonderful along the way. Nonetheless, for a Rule #1 investor, the compounding numbers work out the same whether we’re talking about one business for 20 years or serial businesses for 20 years.
 
 
 
