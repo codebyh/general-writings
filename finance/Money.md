@@ -23,6 +23,22 @@
 ### Myth 2: "Our Fees? They're a small price to pay"
 - The average cost of owning a mutual fund is 3.17% per year.
 - The worse part, you put up the capital, you took all the risk, and fund managers make money no matter what happens. 
+- Types of fees: Expense ratio which averages to 1.31% of assets each year (this is main price tag funds want you to focus on and it doesn't tell the whole story) to cover marketing(12b-1fees), distribution and administration), transaction costs which averages to 1.44% per year(has brokerage commission, market impact costs, spread costs), tax costs which averages to 1.13% per year, soft dollar costs, cash drag, redemption fee, exchange fee, account fee, purchase fee, sales chare or deferred sales charge.
+### Myth 3: "Our returns? What you see is what you get"
+- Mutual fund advertises a specific return known as _time-weighted returns_, it it not the actual return. 
+- checkout https://personalfund.com/ to analyze true fees.
+- **Time-weighted returns**: The mutual fund manager says if we have $1 at beginning of year ans $1.20 at the end the year, we are up 20%. But in reality we make contributions throughout the year (for example for every paycheck in 401K), we are going to have a much different return from what is advertised. Real world is called the _dollar-weighted returns_ which are returns what we actually make.
+- checkout http://www.moneychimp.com/calculator/discount_rate_calculator.htm to calculate what is actual return on your over period of time.
+### Myth 4: "I'm your broker, and I'm here to help"
+- Research found people who manage the fund don't invest in the fund they run, why would you?
+- The system is designed to reward brokers for selling, not for providing conflict-free advice. By legal definition, all broker have to do is provide you with a product that is "**suitable**" (very low bar). Importantly you'll never hear them referred to as "brokers". They are called registered representatives, wealth advisors, vice president of this, that, or other thing. In fact, the _The Wall Street Journal_ reported finding in excess of 200 different professional designations for financial advisors - more than half are not tracked by Financial Industry Regulatory Authority (FINRA), which oversees how invesments are pitched to investors.
+- **Fiduciary**: To receive conflict-free advice, we must align ourselves with a fiduciary, an independent registered investor advisor (RIA).
+    -  A fiduciary is a legal standard adapted by a relatively small but growing segment of independent financial professionals who have abandoned their big-box firms, relinquished their broker status, and made the decision to become a registered investment advisor. These professionals get paid for financial advice and, by law, must remove any potential conflicts of interest (or, at a minimum, disclose them) and put the client's needs above their own. 
+    - The fee you pay to a fiduciary for advice may be _**tax deductible**_, depending on your tax bracket.
+    - Hightower Advisors is one of the top RIA firms in the country but it only offer services to wealthy. Stronghold wealth management, a firm that provides "white-glove" services to those of ultra wealth. Now Stronghold Financial (a new division under Stronghold Wealth Management) collaborated with Hightower and Tony Robbins provides free portfolio assessment. checkout www.StrongholdFinancial.com to link all accounts and analyze feed and risk of all your holdings. (this is currently being redirected to Creative Planning firm).
+    - **Finding a fiduciary**: You can search the country for any fee-only advisor at National Association of Personal Financial Advisors (NAPFA) https://www.napfa.org/find-an-advisor 
+        - Caveat: just because they are on the list doesn't mean they are skilled. Criteria to consider when selecting an advisor:
+            1.   
 
 <br>
 
